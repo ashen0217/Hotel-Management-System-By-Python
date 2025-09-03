@@ -1,5 +1,11 @@
 # Hotel Management System
 
+## 📷 Screenshots
+
+![Home Page Screenshot](home.png)
+
+![Guest Info](guestInfo.png)
+
 A comprehensive hotel management system built with Python and Tkinter GUI. This system provides essential features for managing hotel operations including check-in, check-out, room management, and guest information tracking.
 
 ## Features
